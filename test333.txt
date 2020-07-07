@@ -1,4 +1,5 @@
-<<<<<<< HEAD
 这是在master分支上的内容,fffffff
 这是feature分支上的内容
->>>>>>> feature1
+commit first time
+commit two time
+commit three time
